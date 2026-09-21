@@ -13,6 +13,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0162-find-peak-element](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0162-find-peak-element/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -31,6 +32,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0001-two-sum/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
