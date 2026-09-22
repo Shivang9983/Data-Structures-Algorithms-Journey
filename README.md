@@ -62,4 +62,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0162-find-peak-element/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0193-valid-phone-numbers](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
