@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0125-valid-palindrome/) | Easy |
 ## String
@@ -18,6 +19,7 @@
 | [0001-two-sum](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0078-subsets](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0162-find-peak-element](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0162-find-peak-element/) | Medium |
@@ -80,4 +82,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0078-subsets/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0042-trapping-rain-water/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
