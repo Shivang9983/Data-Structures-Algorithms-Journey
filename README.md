@@ -26,6 +26,7 @@
 | [0088-merge-sorted-array](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0162-find-peak-element](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0162-find-peak-element/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0001-two-sum/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Divide and Conquer
@@ -106,4 +108,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1096-brace-expansion-ii](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1096-brace-expansion-ii/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
