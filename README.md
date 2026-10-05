@@ -12,6 +12,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0006-zigzag-conversion/) | Medium |
 | [0125-valid-palindrome](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0125-valid-palindrome/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
