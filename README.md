@@ -28,6 +28,7 @@
 | [0162-find-peak-element](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0162-find-peak-element/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0853-car-fleet](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0853-car-fleet/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0853-car-fleet](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0853-car-fleet/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -100,11 +102,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0042-trapping-rain-water/) | Hard |
+| [0853-car-fleet](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0853-car-fleet/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0042-trapping-rain-water/) | Hard |
+| [0853-car-fleet](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0853-car-fleet/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
