@@ -121,4 +121,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0182-duplicate-emails/) | Easy |
+| [0185-department-top-three-salaries](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
