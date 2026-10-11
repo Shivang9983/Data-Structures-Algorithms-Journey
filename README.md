@@ -117,4 +117,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
