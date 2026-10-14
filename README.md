@@ -23,6 +23,7 @@
 | [0011-container-with-most-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0042-trapping-rain-water/) | Hard |
+| [0074-search-a-2d-matrix](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0162-find-peak-element](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0162-find-peak-element/) | Medium |
@@ -81,6 +82,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0162-find-peak-element/) | Medium |
 ## Shell
 | Problem Name | Difficulty |
@@ -126,5 +128,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
