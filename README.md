@@ -29,6 +29,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0853-car-fleet](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0853-car-fleet/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -122,4 +123,8 @@
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0182-duplicate-emails/) | Easy |
 | [0185-department-top-three-salaries](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0185-department-top-three-salaries/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
