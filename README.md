@@ -22,6 +22,7 @@
 | [0001-two-sum](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0027-remove-element/) | Easy |
+| [0036-valid-sudoku](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -49,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0036-valid-sudoku/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -130,6 +132,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0036-valid-sudoku/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1572-matrix-diagonal-sum/) | Easy |
