@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0088-merge-sorted-array/) | Easy |
@@ -21,6 +22,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0042-trapping-rain-water/) | Hard |
