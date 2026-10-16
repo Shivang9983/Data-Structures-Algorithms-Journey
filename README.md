@@ -41,10 +41,12 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0206-reverse-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -136,4 +138,8 @@
 | [0073-set-matrix-zeroes](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1572-matrix-diagonal-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
