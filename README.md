@@ -37,10 +37,12 @@
 | [0853-car-fleet](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0853-car-fleet/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0011-container-with-most-water/) | Medium |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
