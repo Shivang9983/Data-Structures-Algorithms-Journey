@@ -4,13 +4,21 @@
  * @return {number}
  */
 function maximizeSum(nums, k) {
-   
-    let maxVal = Math.max(...nums);
+    let maxVal = nums[0];
     
+    for (let i = 1; i < nums.length; i++) {
+        if (nums[i] > maxVal) {
+            maxVal = nums[i];
+        }
+    }
     
-    let ans = (maxVal * k) + (k * (k - 1)) / 2;
+    let totalSum = 0;
+    for (let i = 0; i < k; i++) {
+        totalSum += maxVal;
+        maxVal = maxVal + 1;
+    }
     
-    return ans;
+    return totalSum;
 }
 
 
