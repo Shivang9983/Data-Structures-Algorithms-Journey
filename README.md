@@ -117,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0042-trapping-rain-water/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0853-car-fleet](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0853-car-fleet/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Monotonic Stack
@@ -148,4 +149,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0002-add-two-numbers/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
