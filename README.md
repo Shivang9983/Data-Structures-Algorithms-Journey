@@ -113,6 +113,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0120-triangle](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0120-triangle/) | Medium |
+| [0834-sum-of-distances-in-tree](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,12 +154,22 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0834-sum-of-distances-in-tree](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0834-sum-of-distances-in-tree](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 <!---LeetCode Topics End-->
