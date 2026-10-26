@@ -112,6 +112,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0120-triangle](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0120-triangle/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 ## Stack
@@ -150,6 +151,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0002-add-two-numbers/) | Medium |
+| [0070-climbing-stairs](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0070-climbing-stairs/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +174,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
