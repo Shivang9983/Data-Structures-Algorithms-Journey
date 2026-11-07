@@ -31,6 +31,7 @@
 | [0078-subsets](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0120-triangle](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0120-triangle/) | Medium |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0162-find-peak-element](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0198-house-robber/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -115,6 +116,7 @@
 | [0042-trapping-rain-water](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0120-triangle](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0120-triangle/) | Medium |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0198-house-robber](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0198-house-robber/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 ## Stack
