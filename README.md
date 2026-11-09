@@ -34,6 +34,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0162-find-peak-element](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0198-house-robber/) | Medium |
+| [0204-count-primes](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0204-count-primes/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0853-car-fleet](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0853-car-fleet/) | Medium |
@@ -156,6 +157,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0002-add-two-numbers/) | Medium |
 | [0070-climbing-stairs](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0070-climbing-stairs/) | Easy |
+| [0204-count-primes](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0204-count-primes/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,4 +184,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0070-climbing-stairs/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
