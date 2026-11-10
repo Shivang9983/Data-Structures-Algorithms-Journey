@@ -35,6 +35,7 @@
 | [0162-find-peak-element](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0204-count-primes/) | Medium |
+| [0217-contains-duplicate](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0853-car-fleet](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0853-car-fleet/) | Medium |
@@ -62,6 +63,7 @@
 | [0001-two-sum](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0001-two-sum/) | Easy |
 | [0036-valid-sudoku](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0036-valid-sudoku/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0217-contains-duplicate](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -74,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0853-car-fleet](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/0853-car-fleet/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Shivang9983/Data-Structures-Algorithms-Journey/tree/main/1096-brace-expansion-ii/) | Hard |
